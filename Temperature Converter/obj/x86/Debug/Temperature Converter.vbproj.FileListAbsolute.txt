@@ -1,0 +1,11 @@
+C:\Vicky\Visual Studio\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.exe
+C:\Vicky\Visual Studio\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.pdb
+C:\Vicky\Visual Studio\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.xml
+C:\Vicky\Visual Studio\Temperature Converter\Temperature Converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Vicky\Visual Studio\Temperature Converter\Temperature Converter\obj\x86\Debug\Temperature_Converter.Form1.resources
+C:\Vicky\Visual Studio\Temperature Converter\Temperature Converter\obj\x86\Debug\Temperature_Converter.Resources.resources
+C:\Vicky\Visual Studio\Temperature Converter\Temperature Converter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Vicky\Visual Studio\Temperature Converter\Temperature Converter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Vicky\Visual Studio\Temperature Converter\Temperature Converter\obj\x86\Debug\Temperature Converter.exe
+C:\Vicky\Visual Studio\Temperature Converter\Temperature Converter\obj\x86\Debug\Temperature Converter.xml
+C:\Vicky\Visual Studio\Temperature Converter\Temperature Converter\obj\x86\Debug\Temperature Converter.pdb
